@@ -1,0 +1,251 @@
+[uWSGI] getting INI configuration from /home/alu3295/webapps/vm/uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon Dec 11 22:40:31 2017] ***
+compiled with version: 5.4.0 20160609 on 16 October 2017 12:47:11
+os: Linux-4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017
+nodename: cloud
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+detected binary path: /home/alu3295/.virtualenvs/vm/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/alu3295/webapps/vm
+your processes number limit is 1880
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/vm.sock fd 3
+Python version: 3.6.3 (default, Oct  6 2017, 08:44:35)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x2143950
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x2143950 pid: 11257 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11257)
+spawned uWSGI worker 1 (pid: 11265, cores: 1)
+[uWSGI] getting INI configuration from /home/alu3295/webapps/vm/uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon Dec 11 22:41:07 2017] ***
+compiled with version: 5.4.0 20160609 on 16 October 2017 12:47:11
+os: Linux-4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017
+nodename: cloud
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+detected binary path: /home/alu3295/.virtualenvs/vm/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/alu3295/webapps/vm
+your processes number limit is 1880
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/vm.sock fd 3
+Python version: 3.6.3 (default, Oct  6 2017, 08:44:35)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x2552950
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x2552950 pid: 11301 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11301)
+spawned uWSGI worker 1 (pid: 11305, cores: 1)
+[uWSGI] getting INI configuration from /home/alu3295/webapps/vm/uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon Dec 11 22:44:09 2017] ***
+compiled with version: 5.4.0 20160609 on 16 October 2017 12:47:11
+os: Linux-4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017
+nodename: cloud
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+detected binary path: /home/alu3295/.virtualenvs/vm/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/alu3295/webapps/vm
+your processes number limit is 1880
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/vm.sock fd 3
+Python version: 3.6.3 (default, Oct  6 2017, 08:44:35)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x24ca950
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x24ca950 pid: 11370 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11370)
+spawned uWSGI worker 1 (pid: 11372, cores: 1)
+[uWSGI] getting INI configuration from /home/alu3295/webapps/vm/uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Mon Dec 11 22:53:03 2017] ***
+compiled with version: 5.4.0 20160609 on 16 October 2017 12:47:11
+os: Linux-4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017
+nodename: cloud
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+detected binary path: /home/alu3295/.virtualenvs/vm/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/alu3295/webapps/vm
+your processes number limit is 1880
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/vm.sock fd 3
+Python version: 3.6.3 (default, Oct  6 2017, 08:44:35)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xe58950
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xe58950 pid: 11573 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11573)
+spawned uWSGI worker 1 (pid: 11575, cores: 1)
+Traceback (most recent call last):
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1977, in wsgi_app
+    ctx = self.request_context(environ)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1938, in request_context
+    return RequestContext(self, environ)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/ctx.py", line 242, in __init__
+    self.url_adapter = app.create_url_adapter(self.request)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1765, in create_url_adapter
+    server_name=self.config['SERVER_NAME'])
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/werkzeug/routing.py", line 1336, in bind_to_environ
+    environ['REQUEST_METHOD'], path_info,
+KeyError: 'REQUEST_METHOD'
+[pid: 11575|app: 0|req: 1/1]  () {16 vars in 390 bytes} [Tue Dec 12 08:19:02 2017]   => generated 0 bytes in 15 msecs ( 500) 0 headers in 0 bytes (0 switches on core 0)
+Traceback (most recent call last):
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1977, in wsgi_app
+    ctx = self.request_context(environ)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1938, in request_context
+    return RequestContext(self, environ)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/ctx.py", line 242, in __init__
+    self.url_adapter = app.create_url_adapter(self.request)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1765, in create_url_adapter
+    server_name=self.config['SERVER_NAME'])
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/werkzeug/routing.py", line 1336, in bind_to_environ
+    environ['REQUEST_METHOD'], path_info,
+KeyError: 'REQUEST_METHOD'
+[pid: 11575|app: 0|req: 2/2]  () {16 vars in 390 bytes} [Tue Dec 12 08:19:03 2017]   => generated 0 bytes in 8 msecs ( 500) 0 headers in 0 bytes (0 switches on core 0)
+Traceback (most recent call last):
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1977, in wsgi_app
+    ctx = self.request_context(environ)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1938, in request_context
+    return RequestContext(self, environ)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/ctx.py", line 242, in __init__
+    self.url_adapter = app.create_url_adapter(self.request)
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/flask/app.py", line 1765, in create_url_adapter
+    server_name=self.config['SERVER_NAME'])
+  File "/home/alu3295/.virtualenvs/vm/lib/python3.6/site-packages/werkzeug/routing.py", line 1336, in bind_to_environ
+    environ['REQUEST_METHOD'], path_info,
+KeyError: 'REQUEST_METHOD'
+[pid: 11575|app: 0|req: 3/3]  () {16 vars in 390 bytes} [Tue Dec 12 08:19:04 2017]   => generated 0 bytes in 5 msecs ( 500) 0 headers in 0 bytes (0 switches on core 0)
+[uWSGI] getting INI configuration from /home/alu3295/webapps/vm/uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Fri Dec 15 11:54:06 2017] ***
+compiled with version: 5.4.0 20160609 on 16 October 2017 12:47:11
+os: Linux-4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017
+nodename: cloud
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+detected binary path: /home/alu3295/.virtualenvs/vm/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/alu3295/webapps/vm
+your processes number limit is 1880
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/vm.sock fd 3
+Python version: 3.6.3 (default, Oct  6 2017, 08:44:35)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x2601950
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x2601950 pid: 12071 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12071)
+spawned uWSGI worker 1 (pid: 12075, cores: 1)
+[pid: 12075|app: 0|req: 1/1] 81.32.13.218 () {42 vars in 669 bytes} [Fri Dec 15 11:54:07 2017] GET / => generated 2054 bytes in 58 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[uWSGI] getting INI configuration from /home/alu3295/webapps/vm/uwsgi.ini
+*** Starting uWSGI 2.0.15 (64bit) on [Fri Dec 15 12:00:11 2017] ***
+compiled with version: 5.4.0 20160609 on 16 October 2017 12:47:11
+os: Linux-4.4.0-97-generic #120-Ubuntu SMP Tue Sep 19 17:28:18 UTC 2017
+nodename: cloud
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /
+detected binary path: /home/alu3295/.virtualenvs/vm/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/alu3295/webapps/vm
+your processes number limit is 1880
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/vm.sock fd 3
+Python version: 3.6.3 (default, Oct  6 2017, 08:44:35)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x85f950
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145520 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x85f950 pid: 12173 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12173)
+spawned uWSGI worker 1 (pid: 12175, cores: 1)
+[pid: 12175|app: 0|req: 1/1] 81.32.13.218 () {42 vars in 670 bytes} [Fri Dec 15 12:00:18 2017] GET / => generated 2055 bytes in 15 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 2/2] 81.32.13.218 () {40 vars in 720 bytes} [Fri Dec 15 12:14:07 2017] GET / => generated 2055 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 3/3] 81.32.13.218 () {40 vars in 698 bytes} [Fri Dec 15 12:14:07 2017] GET /favicon.ico => generated 233 bytes in 15 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 4/4] 81.32.13.218 () {42 vars in 751 bytes} [Fri Dec 15 12:29:01 2017] GET / => generated 2055 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 5/5] 92.187.104.172 () {42 vars in 723 bytes} [Sat Dec 16 16:18:53 2017] GET / => generated 2055 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 6/6] 92.187.104.172 () {36 vars in 617 bytes} [Sat Dec 16 16:18:53 2017] GET /favicon.ico => generated 233 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 7/7] 92.187.104.172 () {44 vars in 782 bytes} [Sat Dec 16 16:18:57 2017] GET /run_process => generated 1663 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 8/8] 92.187.104.172 () {50 vars in 943 bytes} [Sat Dec 16 16:19:12 2017] POST /run_process => generated 2324 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 9/9] 92.187.104.172 () {44 vars in 801 bytes} [Sat Dec 16 16:19:22 2017] GET /change_status/1 => generated 2324 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 10/10] 92.187.104.172 () {44 vars in 805 bytes} [Sat Dec 16 16:19:30 2017] GET /change_status/2 => generated 2326 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 11/11] 92.187.104.172 () {44 vars in 805 bytes} [Sat Dec 16 16:19:32 2017] GET /change_status/0 => generated 2055 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 12/12] 92.187.104.172 () {44 vars in 805 bytes} [Sat Dec 16 16:19:33 2017] GET /change_status/2 => generated 2057 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 13/13] 92.187.104.172 () {44 vars in 805 bytes} [Sat Dec 16 16:19:35 2017] GET /change_status/1 => generated 2055 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 14/14] 92.187.104.172 () {44 vars in 797 bytes} [Sat Dec 16 16:19:47 2017] GET /run_process => generated 1663 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 15/15] 92.187.104.172 () {50 vars in 943 bytes} [Sat Dec 16 16:20:10 2017] POST /run_process => generated 2324 bytes in 2 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 16/16] 92.187.104.172 () {40 vars in 716 bytes} [Sat Dec 16 17:57:40 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 17/17] 92.187.104.172 () {40 vars in 694 bytes} [Sat Dec 16 17:57:40 2017] GET /favicon.ico => generated 233 bytes in 0 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 18/18] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:26:11 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 19/19] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:26:12 2017] GET / => generated 2324 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 20/20] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:26:13 2017] GET / => generated 2324 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 21/21] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:26:15 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 22/22] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:27:04 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 23/23] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:27:05 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 24/24] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:27:08 2017] GET / => generated 2324 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 25/25] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:27:09 2017] GET / => generated 2324 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 26/26] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:32:55 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 27/27] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:32:56 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 28/28] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:32:57 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 29/29] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:34:21 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 30/30] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:34:23 2017] GET / => generated 2324 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
+[pid: 12175|app: 0|req: 31/31] 92.187.104.172 () {42 vars in 747 bytes} [Sat Dec 16 18:34:24 2017] GET / => generated 2324 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 81 bytes (1 switches on core 0)
