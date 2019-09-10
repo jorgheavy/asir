@@ -1,8 +1,8 @@
 import sys
 
-num = int(sys.argv[1])
-letras = "TRWAGMYFPDXBNJZSQVHLCKE"
+dni = int(input("Introduzca su DNI: "))
+secuenciaLetrasNIF = "TRWAGMYFPDXBNJZSQVHLCKE"
 
-letra = num % 23
-num_letra = letras[letra]
-print(f"{num}{num_letra}")
+letra = dni % 23
+codigoControl = secuenciaLetrasNIF[letra]
+print("Su NIF es: " + (f"{dni}{codigoControl}"))
